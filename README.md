@@ -13,7 +13,7 @@ The version numbers below were confirmed to work with the current release:
 | anthropic  | 0.49.0   |
 | openai     | 1.66.3   |
 | sklearn    | 1.2.2    |
-| torch      | 2.4.0+cpu|
+| torch      | 2.4.0    |
 | chromadb   | 0.6.3    |
 
 
