@@ -18,7 +18,7 @@ The version numbers below were confirmed to work with the current release:
 
 ## Google Site: [Google Sites](https://sites.google.com/view/autosolabeler)
 ## Repository Structure
-- [**AutoSOLabeler**](./AutoSOLabeler): Partial code of the AutoSOLabeler framework. 
+- [**AutoSOLabeler**](./AutoSOLabeler): Code of the AutoSOLabeler framework. 
 - [**Data Collection**](./Data%20Collection): Code for data collection queries and web scraping. The readme file presents details about it.
 - [**Dataset**](./Dataset): Contains both the new (unseen) dataset and the published (seen) dataset.
 - [**Diagrams**](./Diagrams): All figures used in the paper.
