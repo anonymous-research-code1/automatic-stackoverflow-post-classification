@@ -19,7 +19,7 @@ The version numbers below were confirmed to work with the current release:
 
 ## Repository Structure
 
-- [**AutoSOLabeler**](./AutoSOLabeler): Partial code of the AutoSOLabeler framework. The full code will be released upon acceptance of the paper.
+- [**AutoSOLabeler**](./AutoSOLabeler): Partial code of the AutoSOLabeler framework. 
 - [**Data Collection**](./Data%20Collection): Code for data collection queries and web scraping.
 - [**Dataset**](./Dataset): Contains both the new (unseen) dataset and the published (seen) dataset.
 - [**Diagrams**](./Diagrams): All figures used in the paper.
