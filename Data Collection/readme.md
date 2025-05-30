@@ -1,6 +1,6 @@
-# StackExchange Dataset Collection
+# Stack Overflow Dataset Collection
 
-This project helps you collect and clean a dataset of answers from StackExchange using a predefined query.
+We collect and clean a dataset along with answers from Stack Overflow using a predefined query.
 
 ---
 
@@ -14,7 +14,7 @@ This project helps you collect and clean a dataset of answers from StackExchange
 
 ## Step 2: Scrape Answers
 
-Use the script below to collect answers (solutions) from StackExchange and remove the number (upvote) from answer:
+Use the script below to collect answers (solutions) from Stack Overflow and remove the number (upvote count) from answers:
 
 ```bash
 python scrap_train_answer.py
