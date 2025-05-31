@@ -16,7 +16,7 @@ The version numbers below were confirmed to work with the current release:
 | torch      | 2.4.0    |
 | chromadb   | 0.6.3    |
 
-## Google Site: [Google Sites](https://sites.google.com/view/autosolabeler)
+## [AutoSOLabeler Webpage](https://sites.google.com/view/autosolabeler)
 ## Repository Structure
 - [**AutoSOLabeler**](./AutoSOLabeler): Code of the AutoSOLabeler framework. 
 - [**Data Collection**](./Data%20Collection): Code for data collection queries and web scraping. The readme file presents details about it.
