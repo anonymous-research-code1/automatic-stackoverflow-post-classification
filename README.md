@@ -2,7 +2,7 @@
 
 This repository contains resources related to the AutoSOLabeler framework, including data collection, datasets, experimental prompts, and diagrams used in our research.
 
-# Prerequisites
+# Requirements
 
 The version numbers below were confirmed to work with the current release:
 
