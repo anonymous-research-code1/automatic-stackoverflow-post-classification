@@ -21,6 +21,4 @@ The version numbers below were confirmed to work with the current release:
 - [**AutoSOLabeler**](./AutoSOLabeler): Code of the AutoSOLabeler framework. 
 - [**Data Collection**](./Data%20Collection): Code for data collection queries and web scraping. The readme file presents details about it.
 - [**Dataset**](./Dataset): Contains both the new (unseen) dataset and the published (seen) dataset.
-- [**Diagrams**](./Diagrams): All figures used in the paper.
-- [**Prompts**](./Prompts): Prompts used in the experiment.
 - [**Results**](./Results): Results generated from the experiment.
