@@ -1,0 +1,262 @@
+id,Bug Type,Root Cause,Effect
+59864408,Initialization Bug,Others,Data Corruption
+59953127,API Bug,API Change (APIC),Crash
+60174964,SB.Data Flow Bug,Incorrect Model Parameter or Structure (IPS),Crash
+60840500,SB.Data Flow Bug,Absense of inter API compatibility,Crash
+61137954,API Bug,API Change (APIC),Crash
+61586981,SB.Data Flow Bug,Absence of type checking,Crash
+61814614,Initialization Bug,API Misuse (APIM),Crash
+62068323,SB.Data Flow Bug,Unaligned Tensor (UT),Crash
+62253289,SB.Control and Sequence Bug,Unaligned Tensor (UT),Crash
+62280161,NMSB.Logic Bugs,API Misuse (APIM),Crash
+62622704,API Bug,API Change (APIC),Crash
+62931610,NMSB.Logic Bugs,Others,Unknown
+63059979,API Bug,API Change (APIC),Crash
+63068639,API Bug,API Change (APIC),Crash
+63279168,SB.Data Flow Bug,Unaligned Tensor (UT),Crash
+64199384,Processing Bug,API Change (APIC),Crash
+64305438,SB.Control and Sequence Bug,Confusion with Computation Model(CCM),Incorrect Functionality
+64320883,SB.Data Flow Bug,Unaligned Tensor (UT),Crash
+64337550,API Bug,API Change (APIC),Crash
+64687375,SB.Control and Sequence Bug,Incorrect Model Parameter or Structure (IPS),Incorrect Functionality
+65242614,API Bug,Absense of inter API compatibility,Crash
+65366442,NMSB.Logic Bugs,API Misuse (APIM),Crash
+66083545,API Bug,Absense of inter API compatibility,Crash
+66718335,SB.Data Flow Bug,Unaligned Tensor (UT),Crash
+66964492,API Bug,API Change (APIC),Crash
+67018079,API Bug,API Change (APIC),Crash
+67557515,SB.Data Flow Bug,Incorrect Model Parameter or Structure (IPS),Crash
+67696519,API Bug,API Change (APIC),Crash
+68836551,API Bug,API Change (APIC),Crash
+68844792,Processing Bug,API Misuse (APIM),Bad Performance
+69687794,NMSB.Logic Bugs,Others,Crash
+70544129,Data Bug,Unaligned Tensor (UT),Crash
+70622895,API Bug,Absence of type checking,Crash
+71153492,SB.Data Flow Bug,Incorrect Model Parameter or Structure (IPS),Crash
+72043662,API Bug,API Change (APIC),Crash
+72441758,API Bug,API Change (APIC),Crash
+74949556,API Bug,API Change (APIC),Crash
+59622277,NMSB.Logic Bugs,API Misuse (APIM),Crash
+59639633,SB.Data Flow Bug,Incorrect Model Parameter or Structure (IPS),Crash
+59644859,API Bug,API Change (APIC),Crash
+59648509,Initialization Bug,Confusion with Computation Model(CCM),Unknown
+59681453,API Bug,Absense of inter API compatibility,Crash
+59682542,API Bug,API Change (APIC),Crash
+59765784,API Bug,Absense of inter API compatibility,Crash
+59811781,SB.Control and Sequence Bug,Confusion with Computation Model(CCM),Crash
+59825444,API Bug,API Change (APIC),Crash
+59843037,API Bug,API Change (APIC),Crash
+59864588,Data Bug,Incorrect Model Parameter or Structure (IPS),Crash
+59894720,API Bug,Others,Crash
+59905761,Data Bug,API Misuse (APIM),Crash
+59910494,SB.Logic Bugs,API Misuse (APIM),Crash
+59938365,API Bug,Absense of inter API compatibility,Crash
+59938419,SB.Data Flow Bug,Incorrect Model Parameter or Structure (IPS),Crash
+59962509,API Bug,API Change (APIC),Crash
+60022195,NMSB.Logic Bugs,API Misuse (APIM),Crash
+60045971,API Bug,API Change (APIC),Crash
+60080646,API Bug,Others,Incorrect Functionality
+60102214,SB.Control and Sequence Bug,Incorrect Model Parameter or Structure (IPS),Incorrect Functionality
+60141916,API Bug,Others,Crash
+60146023,API Bug,API Change (APIC),Crash
+60207583,SB.Control and Sequence Bug,Incorrect Model Parameter or Structure (IPS),Unknown
+60414562,SB.Data Flow Bug,Unaligned Tensor (UT),Crash
+60451648,Initialization Bug,Absence of type checking,Crash
+60567183,API Bug,Absense of inter API compatibility,Crash
+60690327,SB.Data Flow Bug,Incorrect Model Parameter or Structure (IPS),Crash
+60791067,API Bug,API Change (APIC),Crash
+60924336,API Bug,Absense of inter API compatibility,Crash
+60948259,Initialization Bug,Others,Crash
+61030977,SB.Data Flow Bug,Incorrect Model Parameter or Structure (IPS),Crash
+61266275,Initialization Bug,API Misuse (APIM),Crash
+61364793,Initialization Bug,Confusion with Computation Model(CCM),Unknown
+61390089,SB.Control and Sequence Bug,Others,Memory Out of Bound
+61458419,SB.Data Flow Bug,Incorrect Model Parameter or Structure (IPS),Crash
+61557024,SB.Logic Bugs,API Misuse (APIM),Crash
+61647404,SB.Control and Sequence Bug,Structure Ineffciency (SI),Bad Performance
+61656444,SB.Data Flow Bug,Incorrect Model Parameter or Structure (IPS),Incorrect Functionality
+61698373,SB.Data Flow Bug,API Misuse (APIM),Unknown
+61705858,Initialization Bug,API Misuse (APIM),Crash
+61711898,SB.Data Flow Bug,Incorrect Model Parameter or Structure (IPS),Crash
+61763029,API Bug,API Change (APIC),Crash
+61904878,SB.Data Flow Bug,Incorrect Model Parameter or Structure (IPS),Crash
+61923379,SB.Logic Bugs,Incorrect Model Parameter or Structure (IPS),Crash
+61997378,Data Bug,Unaligned Tensor (UT),Crash
+62081452,API Bug,API Change (APIC),Crash
+62169315,Initialization Bug,Incorrect Model Parameter or Structure (IPS),Crash
+62184887,SB.Data Flow Bug,Others,Incorrect Functionality
+62205174,Initialization Bug,API Misuse (APIM),Crash
+62357239,SB.Control and Sequence Bug,Incorrect Model Parameter or Structure (IPS),Crash
+62393032,SB.Logic Bugs,Incorrect Model Parameter or Structure (IPS),Crash
+62395559,SB.Data Flow Bug,Incorrect Model Parameter or Structure (IPS),Crash
+62428590,API Bug,Others,Crash
+62449191,Initialization Bug,API Misuse (APIM),Crash
+62454151,API Bug,API Change (APIC),Crash
+62654908,SB.Data Flow Bug,Incorrect Model Parameter or Structure (IPS),Crash
+62744659,SB.Data Flow Bug,Unaligned Tensor (UT),Crash
+62855617,SB.Logic Bugs,Absence of type checking,Crash
+62917349,API Bug,Others,Memory Out of Bound
+62951662,Data Bug,Unaligned Tensor (UT),Crash
+63308383,API Bug,API Misuse (APIM),Crash
+63315046,Data Bug,Absence of type checking,Crash
+63350484,API Bug,API Change (APIC),Crash
+63359321,NMSB.Logic Bugs,Incorrect Model Parameter or Structure (IPS),Crash
+63364588,Data Bug,Absence of type checking,Crash
+63456418,Initialization Bug,API Misuse (APIM),Crash
+63458668,API Bug,Others,Crash
+63464944,SB.Logic Bugs,Confusion with Computation Model(CCM),Data Corruption
+63484172,API Bug,API Change (APIC),Crash
+63513390,Initialization Bug,API Misuse (APIM),Crash
+63518432,NMSB.Logic Bugs,Others,Memory Out of Bound
+63533821,Data Bug,API Misuse (APIM),Incorrect Functionality
+63655484,Initialization Bug,Confusion with Computation Model(CCM),Incorrect Functionality
+63658086,Initialization Bug,API Misuse (APIM),Crash
+63757796,NMSB.Logic Bugs,Others,Crash
+63760734,SB.Data Flow Bug,Incorrect Model Parameter or Structure (IPS),Crash
+63779927,SB.Logic Bugs,API Misuse (APIM),Crash
+63830447,NMSB.Logic Bugs,Unaligned Tensor (UT),Unknown
+63869134,API Bug,Absense of inter API compatibility,Crash
+63927188,SB.Control and Sequence Bug,Others,Incorrect Functionality
+63950888,Data Bug,Absence of type checking,Crash
+64118331,API Bug,API Change (APIC),Crash
+64132842,Data Bug,Absence of type checking,Incorrect Functionality
+64181260,API Bug,API Misuse (APIM),Crash
+64200512,Processing Bug,API Misuse (APIM),Crash
+64337087,NMSB.Logic Bugs,Others,Crash
+64401472,SB.Data Flow Bug,Incorrect Model Parameter or Structure (IPS),Crash
+64401570,API Bug,API Change (APIC),Crash
+64434655,NMSB.Logic Bugs,Others,Crash
+64556120,SB.Control and Sequence Bug,Absense of inter API compatibility,Incorrect Functionality
+64770484,Data Bug,Others,Crash
+64844140,API Bug,API Change (APIC),Crash
+64990551,SB.Logic Bugs,Incorrect Model Parameter or Structure (IPS),Crash
+65151225,Initialization Bug,API Misuse (APIM),Crash
+65438156,Data Bug,Absence of type checking,Crash
+65549053,NMSB.Logic Bugs,API Misuse (APIM),Crash
+65809906,SB.Control and Sequence Bug,Confusion with Computation Model(CCM),Crash
+66178738,API Bug,API Change (APIC),Crash
+66221788,API Bug,API Change (APIC),Crash
+66268795,Data Bug,Unaligned Tensor (UT),Unknown
+66328719,SB.Logic Bugs,API Misuse (APIM),Crash
+66408995,NMSB.Logic Bugs,API Misuse (APIM),Crash
+66501492,API Bug,API Change (APIC),Crash
+66508872,API Bug,API Change (APIC),Crash
+66642948,Processing Bug,Structure Ineffciency (SI),Incorrect Functionality
+66667080,NMSB.Logic Bugs,API Misuse (APIM),Crash
+66705131,Data Bug,Absense of inter API compatibility,Crash
+66813950,Data Bug,Unaligned Tensor (UT),Crash
+66814523,API Bug,API Change (APIC),Crash
+66961808,SB.Data Flow Bug,Incorrect Model Parameter or Structure (IPS),Crash
+67037067,API Bug,API Change (APIC),Crash
+67049352,API Bug,API Change (APIC),Crash
+67202194,SB.Data Flow Bug,Incorrect Model Parameter or Structure (IPS),Crash
+67256272,SB.Control and Sequence Bug,Incorrect Model Parameter or Structure (IPS),Crash
+67549661,API Bug,API Change (APIC),Crash
+67695451,API Bug,API Change (APIC),Crash
+67755194,API Bug,API Change (APIC),Crash
+67792138,NMSB.Logic Bugs,Others,Crash
+68012351,API Bug,API Change (APIC),Crash
+68152972,API Bug,API Change (APIC),Crash
+68381733,API Bug,API Change (APIC),Crash
+68712545,Initialization Bug,API Misuse (APIM),Memory Out of Bound
+68835665,API Bug,API Change (APIC),Crash
+69133906,NMSB.Logic Bugs,API Misuse (APIM),Incorrect Functionality
+69136518,SB.Control and Sequence Bug,Incorrect Model Parameter or Structure (IPS),Incorrect Functionality
+69295934,SB.Data Flow Bug,Unaligned Tensor (UT),Crash
+69432710,API Bug,API Change (APIC),Crash
+69591717,SB.Data Flow Bug,Incorrect Model Parameter or Structure (IPS),Crash
+69694944,API Bug,API Change (APIC),Crash
+69933345,SB.Data Flow Bug,Unaligned Tensor (UT),Crash
+69955838,API Bug,API Change (APIC),Crash
+69960574,SB.Logic Bugs,API Misuse (APIM),Crash
+70164002,SB.Data Flow Bug,Incorrect Model Parameter or Structure (IPS),Crash
+70477631,Data Bug,API Misuse (APIM),Crash
+70706671,SB.Logic Bugs,Incorrect Model Parameter or Structure (IPS),Crash
+70739244,SB.Logic Bugs,API Misuse (APIM),Crash
+71164259,API Bug,API Change (APIC),Crash
+71894769,API Bug,API Change (APIC),Crash
+72311337,NMSB.Logic Bugs,API Misuse (APIM),Crash
+72571954,API Bug,API Change (APIC),Crash
+72776335,NMSB.Logic Bugs,Others,Crash
+73270410,API Bug,API Change (APIC),Crash
+73796400,API Bug,API Change (APIC),Crash
+74586892,API Bug,API Change (APIC),Crash
+75433717,API Bug,API Change (APIC),Crash
+75553614,SB.Data Flow Bug,API Misuse (APIM),Crash
+76701617,API Bug,API Change (APIC),Crash
+76702630,SB.Data Flow Bug,Unaligned Tensor (UT),Crash
+77104125,API Bug,API Change (APIC),Crash
+77993956,API Bug,API Change (APIC),Crash
+78286768,API Bug,API Change (APIC),Crash
+78376338,NMSB.Logic Bugs,API Misuse (APIM),Crash
+60347349,SB.Data Flow Bug,Unaligned Tensor (UT),Crash
+60406140,API Bug,API Change (APIC),Crash
+60600529,API Bug,API Change (APIC),Crash
+60601412,SB.Logic Bugs,Unaligned Tensor (UT),Incorrect Functionality
+60623869,SB.Logic Bugs,Incorrect Model Parameter or Structure (IPS),Crash
+60882663,API Bug,API Change (APIC),Crash
+60916714,SB.Data Flow Bug,Confusion with Computation Model(CCM),Crash
+61022748,NMSB.Logic Bugs,Others,Crash
+61166864,Initialization Bug,Unaligned Tensor (UT),Crash
+61218853,API Bug,API Change (APIC),Crash
+61250311,API Bug,API Change (APIC),Crash
+61280885,SB.Data Flow Bug,Unaligned Tensor (UT),Crash
+61296763,Data Bug,API Misuse (APIM),Bad Performance
+61562456,Data Bug,Others,Crash
+61567599,NMSB.Logic Bugs,API Misuse (APIM),Incorrect Functionality
+61833301,API Bug,API Change (APIC),Crash
+61968540,SB.Data Flow Bug,Incorrect Model Parameter or Structure (IPS),Crash
+62075321,Data Bug,Unaligned Tensor (UT),Crash
+62102912,SB.Data Flow Bug,Unaligned Tensor (UT),Crash
+62211655,Processing Bug,API Misuse (APIM),Unknown
+62258549,API Bug,API Change (APIC),Crash
+62279886,SB.Logic Bugs,Incorrect Model Parameter or Structure (IPS),Crash
+62332840,NMSB.Logic Bugs,Absense of inter API compatibility,Crash
+62350538,API Bug,API Misuse (APIM),Crash
+62390059,Data Bug,Unaligned Tensor (UT),Crash
+62522643,NMSB.Logic Bugs,Others,Bad Performance
+62606345,SB.Logic Bugs,API Misuse (APIM),Crash
+62647139,API Bug,API Change (APIC),Crash
+62703814,Data Bug,Unaligned Tensor (UT),Incorrect Functionality
+62735623,API Bug,API Change (APIC),Crash
+62771868,Data Bug,Unaligned Tensor (UT),Crash
+62943048,NMSB.Logic Bugs,Others,Crash
+63231021,API Bug,API Change (APIC),Crash
+64203611,SB.Logic Bugs,API Misuse (APIM),Incorrect Functionality
+64218503,API Bug,API Change (APIC),Crash
+64567161,NMSB.Logic Bugs,API Change (APIC),Crash
+65025263,Processing Bug,Confusion with Computation Model(CCM),Incorrect Functionality
+65067397,API Bug,API Misuse (APIM),Crash
+65081913,NMSB.Logic Bugs,API Misuse (APIM),Crash
+65388357,Data Bug,Unaligned Tensor (UT),Crash
+65642746,Data Bug,Incorrect Model Parameter or Structure (IPS),Crash
+66356797,SB.Data Flow Bug,Unaligned Tensor (UT),Crash
+67371217,SB.Logic Bugs,API Misuse (APIM),Crash
+67427465,NMSB.Logic Bugs,API Misuse (APIM),Crash
+67441084,SB.Data Flow Bug,Structure Ineffciency (SI),Bad Performance
+67505710,Data Bug,Absence of type checking,Crash
+67638345,SB.Data Flow Bug,Unaligned Tensor (UT),Crash
+67694895,API Bug,API Change (APIC),Crash
+68191448,Data Bug,Absence of type checking,Crash
+68536546,NMSB.Logic Bugs,API Misuse (APIM),Crash
+68988859,Data Bug,Absence of type checking,Data Corruption
+69031604,Data Bug,API Misuse (APIM),Memory Out of Bound
+69641708,Initialization Bug,API Misuse (APIM),Memory Out of Bound
+69693757,API Bug,API Misuse (APIM),Incorrect Functionality
+69834335,API Bug,API Change (APIC),Crash
+70067588,SB.Data Flow Bug,Unaligned Tensor (UT),Crash
+70118623,Data Bug,Absence of type checking,Crash
+70254127,SB.Logic Bugs,Confusion with Computation Model(CCM),Crash
+70284645,API Bug,API Change (APIC),Crash
+70307952,API Bug,API Change (APIC),Crash
+70527245,API Bug,API Change (APIC),Crash
+71459009,SB.Data Flow Bug,Unaligned Tensor (UT),Crash
+72199498,Data Bug,Others,Crash
+72479044,API Bug,API Change (APIC),Crash
+72964480,API Bug,API Change (APIC),Crash
+73569804,Data Bug,Others,Incorrect Functionality
+74504568,API Bug,API Change (APIC),Crash
+75016155,API Bug,API Misuse (APIM),Crash
+75359182,API Bug,API Change (APIC),Crash
+76760682,API Bug,API Change (APIC),Crash
+78365339,Data Bug,Unaligned Tensor (UT),Crash
